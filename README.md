@@ -1,5 +1,5 @@
 # BTP
-BTech final year project - 'Laser Propulsion of Nanosat to Low Earth Orbit'. Hoping to integrate control theory to existing laser propulsion literature.
+BTech final year project - 'Laser Propulsion of Nanosat to Low Earth Orbit'. Attempt to integrate control theory to existing laser propulsion literature.
 1. Project_Propsal (pdf)
 2. Abstract (pdf)
 3. BTP1_Introduction to Laser Propulsion (midsem presentation - pptx)
